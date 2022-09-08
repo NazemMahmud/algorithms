@@ -22,7 +22,7 @@
 
 
 /**
- *
+ * TODO: try with single helper array
  * @param {*} arr
  * @param {*} low
  * @param {*} mid
